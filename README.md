@@ -50,4 +50,4 @@ Feel free to reach out to me if you have any questions, ideas or just want to ch
 
 ## License 📄
 
-BB Social Share is licensed under the GNU General Public License version 3 (GPLv3).
+BB Social Share is licensed under the [GNU General Public License version 3 (GPLv3)](https://github.com/yesbhautik/bb-social-share/blob/main/LICENSE).
